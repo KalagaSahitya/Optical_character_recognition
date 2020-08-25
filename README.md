@@ -7,3 +7,8 @@ Currently this is one of the best Library for OCR and gives you the best output.
 I have made this quite easy even for Python Beginners.
 
 Refer the comments in the code while running the file.
+
+---------------------
+# USAGE
+# python ocr.py --image images/example_01.png 
+---------------------
