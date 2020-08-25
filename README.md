@@ -6,6 +6,8 @@ Currently this is one of the best Library for OCR and gives you the best output.
 
 I have made this quite easy even for Python Beginners.
 
+The Libraries that we are going to use includes Pytesseract, Argparse, opencv.
+
 Refer the comments in the code while running the file.
 
 ---------------------
